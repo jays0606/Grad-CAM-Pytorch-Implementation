@@ -19,21 +19,15 @@ It is proven that deeper layers of CNNs generally capture higher-level visual co
 ## Results
 Grad-CAM output results for four different classes in ImageNet. 
 <p align="center">
-    <img src="style/starry-night.jpg" height="200px">
+    <img src="Results/Result0.jpg" height="200px">
 </p>
-
 <p align="center">
-    <img src="result/img1.jpg" height="300px">
-    <img src="result/fig1.png" height="300px">
+    <img src="Results/Result1.jpg" height="300px">
 </p>
-
 <p align="center">
-    <img src="result/img2.jpg" height="300px">
-    <img src="result/fig2.png" height="300px">
+    <img src="Results/Result2.jpg" height="300px">
 </p>
-
 <p align="center">
-    <img src="result/img3.jpg" height="300px">
-    <img src="result/fig3.png" height="300px">
+    <img src="Results/Result3.jpg" height="300px">
 </p>
 
